@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=IM+Fell+English:ital@0;1&display=swap');
+
+/* Body text */
+body {
+  max-width: 760px;
+  margin: 2em auto;
+  padding: 0 1em;
+  font-family: 'Courier Prime', 'Courier New', monospace;
+  line-height: 1.6;
+}
+
+/* Titles and headers */
+h1, h2, h3, h4, h5, h6, title {
+  font-family: 'IM Fell English', Georgia, 'Times New Roman', serif;
+  font-weight: normal;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
